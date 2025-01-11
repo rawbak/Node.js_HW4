@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Ivan",
+    "name": "Mihail",
     "surname": "Ivanov",
     "age": 20,
-    "city": "Ekaterinburg"
+    "city": "Bakal"
   },
   {
     "id": 2,
-    "name": "Simon",
-    "surname": "Petrov",
+    "name": "Alex",
+    "surname": "Sidorov",
     "age": 35,
-    "city": "Moscow"
+    "city": "Perm"
   },
   {
     "id": 3,
-    "name": "Simon",
+    "name": "Alex",
     "surname": "Petrov",
     "age": 21,
     "city": "Moscow"
